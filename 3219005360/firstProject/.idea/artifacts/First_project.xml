@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="First project">
+    <output-path>$PROJECT_DIR$/out/artifacts/First project</output-path>
+    <root id="archive" name="First project.jar">
+      <element id="module-output" name="First project" />
+      <element id="library" level="project" name="Maven: com.janeluo:ikanalyzer:2012_u6" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
